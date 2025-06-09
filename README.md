@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there! I'm Farzam Qureshi.
 
-<!--
-**Farzam-Qureshi/Farzam-Qureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student with a strong focus on **C++**.  
+💻 I've built numerous projects in C++ and am on a journey to master this powerful language.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Goals
+
+- Sharpen my expertise in **C++**
+- Dive deep into other powerful languages like **Python**, **JavaScript**, **SQL**, and **R**
+- Build and share meaningful projects
+- Collaborate with developers, learn from the open-source community, and grow professionally
+
+---
+
+## 📂 What You’ll Find Here
+
+- Personal side projects
+- University & semester assignments
+- Code experiments and practice challenges
+
+---
+
+I created this GitHub space to **showcase my work**, **learn from others**, and **collaborate with fellow developers**.
+
+Let’s build something awesome! 🚀
